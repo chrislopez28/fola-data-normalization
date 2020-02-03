@@ -15,8 +15,8 @@ names(lms)[1] <- "X"
 
 distHaversine(c(ff$X[1], ff$Y[1]), c(lms$X[1], lms$Y[1]))
 
-t <- data.frame(id1 = double(), name1 = character(), 
-                id2 = double(), name2 = character(), dist = double(), stringsAsFactors = FALSE)
+t <- data.frame(id_foodfinders = double(), name1 = character(), 
+                id_lms = double(), name2 = character(), dist = double(), stringsAsFactors = FALSE)
 
 for (i in seq_along(ff$X)){
   min <- 100000000
@@ -37,12 +37,12 @@ for (i in seq_along(ff$X)){
   t[nrow(t) + 1, ] <- c(i, ff$Name[[i]], entry, lms$Name[[entry]], min)
 }
 
-t$id1 <- as.numeric(t$id1)
-t$id2 <- as.numeric(t$id2)
+t$id_foodfinders <- as.numeric(t$id_foodfinders)
+t$id_lms <- as.numeric(t$id_lms)
 t$dist <- as.numeric(t$dist)
 
 sorted <- t[order(t$dist),]
 
-export_name <- "pantries.csv"
+export_name <- "pantries_dist.csv"
 write.csv(sorted, file = paste0("export/", export_name), row.names = FALSE)
 

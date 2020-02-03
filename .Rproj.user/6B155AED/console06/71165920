@@ -11,4 +11,89 @@ C:\Users\chris\batcave\fola>[0K[?25hgit push -u origin master[0K[?25l
 [0;31merror: failed to push some refs to 'git@github.com:chrislopez28/fola-data-normalization.git'[0m[0K
 [0K
 C:\Users\chris\batcave\fola>[0K[?25hg[0Ki[0Kt[0K[33G[?25lC:\Users\chris\batcave\fola>git a[0K[?25hd[0Kd[0K[37G[?25lC:\Users\chris\batcave\fola>git add *[0K[?25h]0;  - git  add *[?25l
-[0K[?25h
+[0K[?25h[?25lwarning: LF will be replaced[0K[1G[?25hwarning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/prop/507AC43D.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/prop/D75AFC25.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/1D7373AF.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/5860995E.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/5D492662.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/8FC6C224.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/8FC6C224-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/9ADE3ED2.[0K[1G[?25h[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/9ADE3ED2-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6B155AED/sources/s-2D4D6AA8/FD7006D2.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in data/LA County Open Data Farmers Markets/CalFresh___SNAP_Authorized_Far[0Km[?25l
+ers_Markets.csv.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in data/LA_LMS_Farmers_Markets/Farmers_Markets.csv.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in data/LA_LMS_food_assistance/Food_Assistance.csv.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h]0; [?25l
+C:\Users\chris\batcave\fola>[0K[?25hg[0Ki[0Kt[0K[33G[?25lC:\Users\chris\batcave\fola>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[40G[?25lC:\Users\chris\batcave\fola>git commit -[0K[?25hm[0K[43G[?25lC:\Users\chris\batcave\fola>git commit -m "[0K[?25hI[0Kn[0Ki[0Kt[0Ki[0Ka[0Kl[0K[52G[?25lC:\Users\chris\batcave\fola>git commit -m "Initial C[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K]0;  - git  commit -m "Initial Commit"[?25l
+[0K[?25h]0; [master (root-commit) 7dadcb2] Initial Commit[0K[?25l
+ 36 files changed, 1308 insertions(+)[0K
+ create mode 100644 .Rproj.user/6B155AED/console06/71165920[0K
+ create mode 100644 .Rproj.user/6B155AED/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/prop/507AC43D[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/prop/D75AFC25[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/1D7373AF[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/1D7373AF-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/4578E025-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/5860995E[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/5860995E-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/5D492662[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/5D492662-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/5F0F5FB4-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/8FC6C224[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/8FC6C224-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/9ADE3ED2[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/9ADE3ED2-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/FD7006D2[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/FD7006D2-contents[0K
+ create mode 100644 .Rproj.user/6B155AED/sources/s-2D4D6AA8/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 data/Databases to scrape.docx[0K
+ create mode 100644 data/FoodFinders_March2019/FoodFinders_March2019-Website-List.xlsx[0K
+ create mode 100644 data/FoodFinders_March2019/FoodFinders_March2019-Website-List_Updated_with_XY.xlsx[0K
+ create mode 100644 data/FoodFinders_March2019/Geocoding_results.xlsx[0K
+ create mode 100644 data/LA County Open Data Farmers Markets/CalFresh___SNAP_Authorized_Farmers_Markets.csv[0K
+ create mode 100644 data/LA County Open Data Farmers Markets/CalFresh___SNAP_Authorized_Farmers_Markets.xlsx[0K
+ create mode 100644 data/LA_LMS_Farmers_Markets/Farmers_Markets.csv[0K
+ create mode 100644 data/LA_LMS_food_assistance/Food_Assistance.csv[0K
+ create mode 100644 data/LA_LMS_food_assistance/_Dataset_Info.docx[0K
+ create mode 100644 export/markets_dist.csv[0K
+ create mode 100644 export/pantries.csv[0K
+ create mode 100644 farmers_markets.R[0K
+ create mode 100644 fola.Rproj[0K
+ create mode 100644 food_pantries.R[0K
+[0K
+C:\Users\chris\batcave\fola>[0K[?25h^V[0K[?25lC:\Users\chris\batcave\fola>[0K[?25hgit push -u origin master[0K]0;  - git  push -u origin master[?25l
+[0K[?25hEnumerating objects: 43, done.[0K[?25l
+Counting objects:  46% (20/43)[0K[1G[?25hCounting objects: 100% (43/43), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:   2% (1/40)[0K[2G[?25h[?25lCompressing objects:  30% (12/40)[0K[1G[?25hCompressing objects: 100% (40/40), done.[0K[?25l
+Writing objects:  72% (31/43)[0K[1G[?25h[?25lWriting objects:  88% (38/43)[0K[1G[?25hWriting objects: 100% (43/43), 239.05 KiB | 4.60 MiB/s, done.[0K[?25l
+Total 43 (delta 5), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (5/5), done.[0K[?25l
+[0K[?25hTo github.com:chrislopez28/fola-data-normalization.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\chris\batcave\fola>[0K[?25hg[0Ki[0Kt[0K[33G[?25lC:\Users\chris\batcave\fola>git a[0K[?25hd[0Kd[0K*[0K[?25lC:\Users\chris\batcave\fola>git add[0K[?25h[37G[?25lC:\Users\chris\batcave\fola>git add *[0K[?25h[?25l
+[0K[?25h]0;  - git  add *

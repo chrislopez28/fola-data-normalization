@@ -9,8 +9,8 @@ names(calfresh) <- c("Name", "Address", "Landmark")
 
 # Levenschtein Distance ---------------------------------------------------
 
-l <- data.frame(id1 = double(), name1 = character(), 
-                id2 = double(), name2 = character(), levenshtein = double(), stringsAsFactors = FALSE)
+l <- data.frame(id_calfresh = double(), name1 = character(), 
+                id_lms = double(), name2 = character(), levenshtein_dist = double(), stringsAsFactors = FALSE)
 
 for (i in seq_along(calfresh$Name)){
   min <- 100000
@@ -31,11 +31,11 @@ for (i in seq_along(calfresh$Name)){
   l[nrow(l) + 1, ] <- c(i, calfresh$Name[[i]], entry, lms$Name[[entry]], min)
 }
 
-l$id1 <- as.numeric(l$id1)
-l$id2 <- as.numeric(l$id2)
-l$levenshtein <- as.numeric(l$levenshtein)
+l$id_calfresh <- as.numeric(l$id_calfresh)
+l$id_lms <- as.numeric(l$id_lms)
+l$levenshtein_dist <- as.numeric(l$levenshtein_dist)
 
-sorted <- l[order(l$levenshtein),]
+sorted <- l[order(l$levenshtein_dist),]
 
-export_name <- "markets_dist.csv"
+export_name <- "markets_stringdist.csv"
 write.csv(sorted, file = paste0("export/", export_name), row.names = FALSE)

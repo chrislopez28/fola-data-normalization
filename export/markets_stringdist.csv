@@ -1,4 +1,4 @@
-"id1","name1","id2","name2","levenshtein"
+"id_calfresh","name1","id_lms","name2","levenshtein_dist"
 18,"Santa Fe Springs CFM",94,"Santa Fe Springs CFM",0
 43,"Lancaster CFM",77,"Lancaster CFM",0
 65,"Pomona Valley Certified Farmers' Market",9,"Pomona Valley Certified Farmers' Market",0
