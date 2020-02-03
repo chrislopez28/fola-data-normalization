@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580709013468.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FD7006D2",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1580709013468,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B856CBDC",
+        "caption" : "calfresh",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=calfresh&cache_key=B856CBDC",
+        "displayedObservations" : 80,
+        "environment" : "",
+        "object" : "calfresh",
+        "preview" : 0,
+        "totalObservations" : 80,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

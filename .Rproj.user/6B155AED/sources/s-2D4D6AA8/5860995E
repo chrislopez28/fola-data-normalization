@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580708936534.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5860995E",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1580708936534,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "314ADDF2",
+        "caption" : "lms",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=lms&cache_key=314ADDF2",
+        "displayedObservations" : 143,
+        "environment" : "",
+        "object" : "lms",
+        "preview" : 0,
+        "totalObservations" : 143,
+        "variables" : 31
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

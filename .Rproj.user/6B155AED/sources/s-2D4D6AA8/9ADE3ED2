@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580712481934.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9ADE3ED2",
+    "lastKnownWriteTime" : 1580749779,
+    "last_content_update" : 1580749779170,
+    "path" : "C:/Users/chris/batcave/fola/food_pantries.R",
+    "project_path" : "food_pantries.R",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "29",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

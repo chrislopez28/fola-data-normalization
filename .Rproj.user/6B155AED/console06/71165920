@@ -1,0 +1,14 @@
+[0m[0KMicrosoft Windows [Version 10.0.18362.592][0K[?25l
+(c) 2019 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\chris\batcave\fola>[0K[?25hg[0Ki[0Kt[0K[33G[?25lC:\Users\chris\batcave\fola>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Users/chris/batcave/fola/.git/[0K[?25l
+[0K
+C:\Users\chris\batcave\fola>[0K[?25hg[0Ki[0Kt[0K[33G[?25lC:\Users\chris\batcave\fola>git a[0K[?25hd[0Kd[0K[37G[36G[?25lC:\Users\chris\batcave\fola>git ad[0K[?25h[?25lC:\Users\chris\batcave\fola>git a[0K[?25h[?25lC:\Users\chris\batcave\fola>git[0K[33G[?25h[32G[?25lC:\Users\chris\batcave\fola>gi[0K[?25h[?25lC:\Users\chris\batcave\fola>g[0K[?25h[?25lC:\Users\chris\batcave\fola>[0K[?25h^V[0K[?25lC:\Users\chris\batcave\fola>[0K[?25hgit remote add origin git@github.com:chrislopez28/fola-data-normalization.git[0K]0;  - git  remote add origin git@github.com:chrislopez28/fola-data-normalization.git[?25l
+[0K[?25h]0; [?25l
+C:\Users\chris\batcave\fola>[0K[?25hgit push -u origin master[0K[?25l
+[0K[?25h]0;  - git  push -u origin master]0; error: src refspec master does not match any.[0K[?25l
+[0;31merror: failed to push some refs to 'git@github.com:chrislopez28/fola-data-normalization.git'[0m[0K
+[0K
+C:\Users\chris\batcave\fola>[0K[?25hg[0Ki[0Kt[0K[33G[?25lC:\Users\chris\batcave\fola>git a[0K[?25hd[0Kd[0K[37G[?25lC:\Users\chris\batcave\fola>git add *[0K[?25h]0;  - git  add *[?25l
+[0K[?25h
